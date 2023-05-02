@@ -1,0 +1,12 @@
+---
+name: ssh-security-check
+title: SSH Basic Security-Setting Check
+Summary: Checks SSH settings based
+version: 1.0.0-1
+maintainer: Chef Software, Inc.
+copyright: Chef Software, Inc.
+copyright_email: support@chef.io
+license: Proprietary, All rights reserved
+supports:
+- platform-family: os
+
